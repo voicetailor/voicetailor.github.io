@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: "VoiceTailor: Lightweight Plug-In Adapter for Diffusion-Based Personalized Text-to-Speech"
+github:
+  is_project_page: false
